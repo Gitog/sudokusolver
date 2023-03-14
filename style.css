@@ -10,3 +10,7 @@
     box-sizing: border-box;
     border-spacing: 1px grey solid;
 }
+
+.ood-section{
+    border-color: lightgray;
+}
